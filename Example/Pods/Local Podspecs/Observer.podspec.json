@@ -1,0 +1,22 @@
+{
+  "name": "Observer",
+  "version": "0.1.0",
+  "summary": "A short description of Observer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/slmkrnz@gmail.com/Observer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "slmkrnz@gmail.com": "selim.yenidogan@freelancer.run"
+  },
+  "source": {
+    "git": "https://github.com/slmkrnz@gmail.com/Observer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Observer/Classes/**/*"
+}

@@ -7,3 +7,16 @@
 //
 
 import Foundation
+
+
+public class AuthorizationService {
+    
+    public init(){
+        
+    }
+    
+    public func add(a: Int, b: Int) -> Int {
+        return a + b
+    }
+    
+}

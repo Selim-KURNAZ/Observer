@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Observer'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Observer.'
+  s.summary          = 'UNDERSTAND IN-APP EXPERIENCE LIKE NEVER BEFORE'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+   Observers app analytics platform provides an in depth analysis of your users behavior, allowing you to deliver the ultimate app experience.
                        DESC
 
   s.homepage         = 'https://github.com/slmkrnz@gmail.com/Observer'

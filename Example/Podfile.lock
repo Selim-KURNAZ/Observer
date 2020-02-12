@@ -1,0 +1,16 @@
+PODS:
+  - Observer (0.1.0)
+
+DEPENDENCIES:
+  - Observer (from `../`)
+
+EXTERNAL SOURCES:
+  Observer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Observer: 458ab01ee481ebd4c2a6ca8dde98225bc638953a
+
+PODFILE CHECKSUM: 99dc066edf7204351742896c9a8fa602f16b7f23
+
+COCOAPODS: 1.8.4
