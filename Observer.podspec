@@ -21,14 +21,15 @@ Pod::Spec.new do |s|
    Observers app analytics platform provides an in depth analysis of your users behavior, allowing you to deliver the ultimate app experience.
                        DESC
 
-  s.homepage         = 'https://github.com/slmkrnz@gmail.com/Observer'
+  s.homepage         = 'https://github.com/Selim-KURNAZ/Observer.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'slmkrnz@gmail.com' => 'selim.yenidogan@freelancer.run' }
-  s.source           = { :git => 'https://github.com/slmkrnz@gmail.com/Observer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Selim-KURNAZ/Observer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '4.0'
 
   s.source_files = 'Observer/Classes/**/*'
   
