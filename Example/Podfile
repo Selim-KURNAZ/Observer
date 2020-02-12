@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Observer_Tests' do
+  pod 'Observer', :path => '../'
+  
+  
+end
